@@ -1,6 +1,7 @@
 import random
 
 number= random.randint(1,100)
+
 #удалить строку ниже , чтобы не показывало ответ
 print (number)
 
